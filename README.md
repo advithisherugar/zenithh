@@ -13,3 +13,15 @@ A personal dashboard for tracking habits, todos, water intake, and mood.
 1. Clone repo
 2. `npm install`
 3. `npm run dev`
+
+# 🎯 Zenith - Habit Tracker
+
+## 🌐 **LIVE DEMO: [Click Here](https://your-app.netlify.app)**
+
+## 📸 Preview:
+![App Screenshot](https://via.placeholder.com/800x400/667eea/ffffff?text=Zenith+Habit+Tracker)
+
+## 🚀 Quick Start
+1. Clone repo
+2. `npm install`
+3. `npm run dev`
